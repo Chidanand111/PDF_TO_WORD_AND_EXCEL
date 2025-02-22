@@ -26,7 +26,7 @@ python script.py
 ## Screenshots
 Example execution:
 
-![Execution Screenshot](ss1.png)
+![Execution Screenshot](SS1.png)
 
 ## License
 This project is open-source and available under the MIT License.
